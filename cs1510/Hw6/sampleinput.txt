@@ -1,0 +1,13 @@
+6
+
+1 Fry 3 
+4 Leela 1
+
+5 Bender 5
+
+6 Hermes 2
+
+8 Scruffy 2
+
+20 Nibbler 1
+

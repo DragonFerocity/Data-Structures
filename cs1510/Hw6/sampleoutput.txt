@@ -1,0 +1,16 @@
+At time 1 Fry joins line A.
+At time 4 Leela joins line B.
+At time 5 Bender joins line A.
+At time 6 Hermes joins line B.
+At time 8 Scruffy joins line A.
+At time 8 Leela is done!
+At time 13 Fry is done!
+At time 16 Hermes is done!
+At time 20 Nibbler joins line B.
+At time 24 Nibbler is done!
+At time 33 Bender is done!
+At time 41 Scruffy is done!
+
+Longest wait: Scruffy, 33 mins.
+Shortest wait: Leela, 4 mins.
+
